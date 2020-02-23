@@ -1,4 +1,4 @@
-package cn.zwy.helloworld.behavior.adapter;
+package cn.zwy.helloworld.structure.adapter;
 
 /**
  * author:zwy
