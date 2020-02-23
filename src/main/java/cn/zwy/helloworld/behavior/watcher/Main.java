@@ -1,4 +1,4 @@
-package cn.zwy.helloworld.behavior.wacher;
+package cn.zwy.helloworld.behavior.watcher;
 
 /**
  * author:zwy
